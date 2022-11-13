@@ -1,0 +1,95 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.a{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#Full-Name{
+    margin-right: 30px;
+}
+.ab{
+    padding-left: 240px;
+    margin-bottom: 20px;
+}
+.ABCD{
+    margin-top: 40px;
+}
+#email{
+    margin-left: 125px;
+}
+#Full-Name{
+    margin-left: 90px;
+}
+#Pasword{
+    margin-left: 100px;
+}
+#Date-of{
+    margin-left: 80px;
+}
+#Pasword1{
+    margin-left: 40px;
+}
+.submit1{
+    margin-top: 50px;
+    margin-left: 160px;
+}
+.submit2{
+    margin-left: 40px;
+}
+body{
+    background-color: lightblue;
+}
+
+*{
+    pad: 0px;
+    margin: 0px;
+}
+nav{
+    display: flex;
+    background-color: lightgray;
+    
+
+}
+.logo{
+    display: flex;
+    text-align: center;
+}
+.logo img{
+    height: 60px;
+}
+nav ul{
+    height: 58px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+nav ul li{
+    list-style: none; 
+    padding: 0 23px;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+nav ul li a:hover{ 
+    font-weight: bolder;
+}
+h1{
+    text-align: center;
+    margin-top: 130px;
+}
+.flex-all-center{
+    background-color: darkcyan;
+    color: aliceblue;
+    margin-top: 40px;
+}

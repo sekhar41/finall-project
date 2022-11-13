@@ -1,0 +1,70 @@
+*{
+    pad: 0px;
+    margin: 0px;
+}
+nav{
+    display: flex;
+    background-color: lightgrey;
+    
+
+}
+.logo{
+    display: flex;
+    text-align: center;
+}
+.logo img{
+    height: 60px;
+}
+nav ul{
+    height: 58px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+nav ul li{
+    list-style: none; 
+    padding: 0 23px;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+nav ul li a:hover{ 
+    font-weight: bolder;
+}
+.type-of-exercises{
+margin-top: 20px;    
+}
+
+.photo{
+    width: 100%;
+}
+
+
+
+.main{
+    text-align: center;
+}
+.main-1{
+    margin-top: 20px;
+
+}
+.main5{
+    margin-top: 20px;
+}
+
+.flex-all-center{
+    background-color: darkcyan;
+    color: aliceblue;
+    margin-top: 40px;
+}
+.slider{ 
+    width: 80vw;
+    margin: 12px auto;
+    overflow: hidden;
+}
+body{
+    background-color: lightblue;
+}

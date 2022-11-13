@@ -1,0 +1,44 @@
+
+*{
+    pad: 0px;
+    margin: 0px;
+}
+nav{
+    display: flex;
+    background-color: lightgray;
+    
+
+}
+.logo{
+    display: flex;
+    text-align: center;
+}
+.logo img{
+    height: 60px;
+}
+nav ul{
+    height: 58px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+nav ul li{
+    list-style: none; 
+    padding: 0 23px;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+nav ul li a:hover{ 
+    font-weight: bolder;
+}
+h1{
+    text-align: center;
+    margin-top: 130px;
+}
+body{
+    background-color: lightblue;
+}

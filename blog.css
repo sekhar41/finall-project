@@ -1,0 +1,91 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: lightblue;
+}
+nav{
+    display: flex;
+    background-color: lightgrey;
+    color: ;
+    
+
+}
+.logo{
+    display: flex;
+    text-align: center;
+}
+.logo img{
+    height: 60px;
+}
+nav ul{
+    height: 58px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+nav ul li{
+    list-style: none; 
+    padding: 0 23px;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+nav ul li a:hover{ 
+    font-weight: bolder;
+}
+.type-of-exercises{
+    margin-top: 20px;    
+    }
+    .first{
+        margin-top: 10px;
+    }
+    .second{
+        margin-top: 10px;
+    }
+    .type-of-aerobic{
+        margin-top: 5px;
+    }
+    .Jump-rope{
+        margin-top: 5px;
+        margin-left: 10px;
+    }
+    .Running-jogging{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .aerobic{
+        margin-left: 5px;
+    }
+    
+    .third{
+        margin-top: 10px;
+    
+    }
+    .dead-lifts{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .planks{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .Standing-Quad-Stretch{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .Lunge-twist{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    
+    
+    .flex-all-center{
+        background-color: darkcyan;
+        color: aliceblue;
+        margin-top: 40px;
+    }
